@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "333244389872",
+    "firebase_url": "https://startover-faf34.firebaseio.com",
+    "project_id": "startover-faf34",
+    "storage_bucket": "startover-faf34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333244389872:android:90826db8a5bf409138e535",
+        "android_client_info": {
+          "package_name": "com.example.startover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333244389872-6vp3dtat5fdkshrl5ap9j5osfbpabip8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5B8e4i3DnaI7Fk8W5pUsWXjiNMJ-HbDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333244389872-6vp3dtat5fdkshrl5ap9j5osfbpabip8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
